@@ -1,10 +1,9 @@
-# sql-ddl-design
 
 ## **Part 1: Schema Design**
 
-**After completing these schemas, be sure to chat with your mentor and ask for a code review.**
-
 ### **Part One: Medical Center**
+
+LINK TO SCHEMA: https://dbdiagram.io/d/Medical-Center-6560c16f3be1495787ad802d
 
 Design the schema for a medical center.
 
@@ -15,6 +14,8 @@ Design the schema for a medical center.
 
 ### **Part Two: Craigslist**
 
+https://dbdiagram.io/d/Craigslist-6560c8703be1495787aded8e
+
 Design a schema for Craigslist! Your schema should keep track of the following
 
 - The region of the craigslist post (San Francisco, Atlanta, Seattle, etc)
@@ -23,6 +24,9 @@ Design a schema for Craigslist! Your schema should keep track of the following
 - Categories that each post belongs to
 
 ### **Part Three: Soccer League**
+
+LINK TO SCHEMA: https://dbdiagram.io/d/Soccer-League-6560e0063be1495787af1466
+
 
 Design a schema for a simple sports league. Your schema should keep track of
 
