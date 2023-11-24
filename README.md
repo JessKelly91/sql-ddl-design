@@ -14,7 +14,7 @@ Design the schema for a medical center.
 
 ### **Part Two: Craigslist**
 
-https://dbdiagram.io/d/Craigslist-6560c8703be1495787aded8e
+LINK TO SCHEMA: https://dbdiagram.io/d/Craigslist-6560c8703be1495787aded8e
 
 Design a schema for Craigslist! Your schema should keep track of the following
 
