@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS soccer_league;
+
+CREATE DATABASE soccer_league;
+
+\c soccer_league
+
 CREATE TABLE "leagues" (
   "id" SERIAL PRIMARY KEY,
   "name" TEXT NOT NULL,

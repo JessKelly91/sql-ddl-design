@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS medical_center;
+
+CREATE DATABASE medical_center;
+
+\c medical_center
+
 CREATE TABLE "doctors" (
     "id" SERIAL PRIMARY KEY,
     "first_name" TEXT NOT NULL,

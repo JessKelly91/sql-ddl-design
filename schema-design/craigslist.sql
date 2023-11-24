@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS craigslist;
+
+CREATE DATABASE craigslist;
+
+\c craigslist
+
 CREATE TABLE "users" (
   "id" SERIAL PRIMARY KEY,
   "username" VARCHAR(25) UNIQUE NOT NULL,
