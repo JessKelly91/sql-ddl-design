@@ -1,13 +1,5 @@
 # sql-ddl-design
 
-# Data Modeling
-
-In this exercise, you’ll be doing some data modeling and schema design! For each of these exercises, diagram what the tables and relationships should look like as well as some other things you might want to store/potential challenges with the model and/or information you are storing.
-
-Once you’re satisfied with your design, write out the DDL operations you’d need in order to create the tables and columns that you’ve identified. Then try to insert some data into your database and ensure that it works the way you’d expect.
-
-[Download exercise](https://curric.springboard.com/software-engineering-career-track/default/exercises/sql-ddl-design.zip)
-
 ## **Part 1: Schema Design**
 
 **After completing these schemas, be sure to chat with your mentor and ask for a code review.**
